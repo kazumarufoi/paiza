@@ -25,7 +25,7 @@ for i in range(k):
 
 # ゲーム開始
 for i in range(m):
-    # 次の生きている人を探す
+    # 次の生きている人を探す@
     while True:
         if ikiteru[jun % n] == 1:
             break
